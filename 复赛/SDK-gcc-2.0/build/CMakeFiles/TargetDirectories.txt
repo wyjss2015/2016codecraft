@@ -1,0 +1,3 @@
+/home/wyj/huawei6/SDK-gcc-2.0/build/CMakeFiles/edit_cache.dir
+/home/wyj/huawei6/SDK-gcc-2.0/build/CMakeFiles/rebuild_cache.dir
+/home/wyj/huawei6/SDK-gcc-2.0/build/CMakeFiles/future_net.dir
